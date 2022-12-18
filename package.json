@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "firebase": "^9.6.7",
+    "firebase-admin": "^10.0.2"
+  }
+}
